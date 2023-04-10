@@ -7,5 +7,5 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathankesnel&show_icons=true&theme=radical)
 
-![Snake animation](https://github.com/Jonathankesnel/jonathankesnel/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Jonathankesnel/Jonathankesnel/blob/output/github-contribution-grid-snake.svg)
   
